@@ -1,10 +1,10 @@
 # Project-Portfolio
 
-# Hi, I'm Ayu Wen Li! 👋
+# Hi there, I'm Wen Li! 
 
 ### Data Analytics Graduate | Aspiring Data Analyst
 
-Welcome to my GitHub portfolio! I'm a recent Data Analytics graduate from Sunway University, Malaysia where I deepened my knowledge and skills in transforming data into meaningful insights through data analysis, machine learning and visualisation.
+Welcome to my GitHub portfolio! I'm **Ayu Wen Li**, a recent Data Analytics graduate from Sunway University, Malaysia where I deepened my knowledge and skills in transforming data into meaningful insights through data analysis, machine learning and visualisation.
 
 ---
 
@@ -227,10 +227,12 @@ DreamHaven is a simulated lodging marketplace similar to Airbnb. The goal of thi
 
 *January 2026 – April 2026*
 
-- Gained exposure to retail measurement services, FMCG market research and customer success operations.
-- Supported data preparation and organisation using Microsoft Excel.
-- Developed an understanding of retail measurement services and sales force activation processes.
-- Researched and prepared a presentation on Coca-Cola as an FMCG manufacturer.
+- Gained exposure to NIQ's Retail Measurement Services (RMS), Customer Success operations, and Sales Force Activation within the FMCG and retail analytics industry.
+- Supported data preparation and organisation using Microsoft Excel to assist with team activities and workflows.
+- Created data visualisations from raw datasets using Microsoft Excel to support FMCG report decks and client presentations.
+- Assisted in developing questionnaires for retailer interviews in the Philippines to gather market insights and support regional FMCG research.
+- Conducted FMCG market and client research, examining market size, leading brands, manufacturers, target consumers, brand positioning, market segments, retail channels and sales drivers.
+- Researched FMCG manufacturers and category dynamics to support regional market deep dives and provide business context for client reports.
 
 ---
 
